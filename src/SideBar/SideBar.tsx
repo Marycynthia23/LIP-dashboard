@@ -1,4 +1,3 @@
-import React from 'react'
 import "../SideBar/SideBar.css"
 import { GrHomeRounded } from 'react-icons/gr';
 import { BsFileEarmarkText, BsShare } from 'react-icons/bs';
