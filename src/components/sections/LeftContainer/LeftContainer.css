@@ -1,0 +1,74 @@
+.left{
+  width: 32%;
+  
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px 20px; 
+    border-radius: 8px; 
+    margin-bottom: 2rem;
+}
+.search{
+    width: 90%;
+    color: #9AA6AC;
+    padding: 8px 5px;
+    border: none;
+    outline: none;
+}
+.character{
+    width: 18px;
+    height: 18px;
+    border: 1px solid #9AA6AC;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    color: #9AA6AC;
+
+}
+.filterContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.card{
+    width: 100%;
+    padding-bottom: 1rem;
+    background: #fff;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    }
+    .cardBody{
+        padding: 10px 20px;
+        /* border-bottom: 1px solid #eeeeee; */
+ 
+    }
+    .cardhead{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;
+        font-size: 14px;
+        font-weight: 600;
+        border-bottom: 1px solid #eeeeee;
+    }
+    .cardList{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid #eeeeee;
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .List{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        column-gap: 1rem;
+    }

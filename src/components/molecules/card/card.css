@@ -1,0 +1,33 @@
+.card{
+width: 596px;
+min-height: 408px;
+padding-bottom: 1rem;
+box-shadow: rgba(0, 0, 0, 0.1);
+background: #fff;
+border-radius: 20px;
+font-family: 'Poppins', sans-serif;
+}
+.title{
+padding: 0.5rem 0.5rem;
+border-bottom: 1px solid #ededed;
+background-color: #D0F7FA;
+color: #000;
+border-radius: 20px 20px 0 0;
+font-size: 25px;
+font-weight: 600;
+padding: 10px 20px;
+
+}
+.card{
+    box-shadow: 5px 5px 5px #c4c4c4;
+}
+.cardBody{
+    padding: 10px 20px; 
+}
+.addQuestionBtn{
+    display: flex;
+    /* justify-content: center; */
+    align-self: center;
+    column-gap: 8px;
+    padding: 1rem 0;
+}

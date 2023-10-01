@@ -1,0 +1,8 @@
+.dashCont{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    margin-top: 5rem;
+    padding: 2rem 2rem;
+    row-gap: 2rem;
+}

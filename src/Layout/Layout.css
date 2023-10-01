@@ -1,0 +1,63 @@
+.layoutCont{
+    overflow: auto;
+    position: relative;
+    background: #F9FAFF;
+    width: 98vw;
+}
+.headertop{
+width: 89%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 1rem 2rem;
+position: fixed;
+z-index: 200;
+background: #F9FAFF;
+
+}
+.logo{
+    width: 35%;
+
+}
+.logoBold{
+font-size: 20px;
+font-weight: 600;
+color: #1D4ED8;
+margin-bottom: 2px;
+}
+.logosmall{
+font-size: 12px;
+color: #444444;
+margin-top: 0;
+}
+.headerdropdown{
+    /* width: 10%; */
+
+}
+.headerRyt{
+    width: 65%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* column-gap: 20px; */
+}
+.icons{
+display: flex;
+justify-content: space-between;
+align-items: center;
+column-gap: 10px;
+}
+.icon{
+width: 40px;
+height: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
+color: #444444;
+box-shadow: 1px 1px 1px#ECECEC;
+background-color: #fff;
+border-radius: 8px;
+}
+.red{
+    color: #A80000;
+}
