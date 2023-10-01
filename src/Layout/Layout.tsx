@@ -38,7 +38,6 @@ const Layout = () => {
         <div className="headerRyt">
           <div className="headerdropdown">
         <Dropdown
-            
           menu={{
             items,
             selectable: true,

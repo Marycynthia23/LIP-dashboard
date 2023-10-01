@@ -1,4 +1,3 @@
-import React from 'react'
 import "../RightContainer/RightContainer.css"
 import { Checkbox } from 'antd';
 import type { CheckboxChangeEvent } from 'antd/es/checkbox';
@@ -11,7 +10,6 @@ const onChange = (e: CheckboxChangeEvent) => {
 const RightContainer = () => {
   return (
     <div className='Right'>
-        {/* <div className='cardContainer'></div> */}
         <div className='cardContainer'>
       <div className='title'>
         <div className='cardTitle'>
